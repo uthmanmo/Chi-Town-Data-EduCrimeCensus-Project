@@ -1,8 +1,6 @@
 # Chi-Town-Data-EduCrimeCensus-Project
 A comprehensive analysis using real-world data from the city of Chicago, including public schools, crime records, and census data from the year 2011-2012. SQL and Python were used to extract meaningful insights about the relationship between safety, poverty, and education in Chicago.
 
-# Chicago Data Analysis Project
-
 ## 📊 Project Overview
 
 This project is part of a skills development course and serves as a complete practical assignment to enhance data analysis skills using real-world datasets. We explore the relationship between socioeconomic indicators, public safety, and school performance in the city of Chicago using **SQLite**, **SQL**, and **Python (Pandas)**.
